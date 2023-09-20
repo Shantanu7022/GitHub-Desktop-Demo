@@ -1,4 +1,4 @@
-// Second Largest and Smallest element of an array
+// Find the Second Largest and Smallest element of an array
 
 #include<bits/stdc++.h>
 using namespace std;
